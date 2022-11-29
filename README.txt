@@ -1,9 +1,9 @@
 Real Time Mask Detector
 created by
-Rana Abdul Muneem	19L-1046
-Muhammad Shariq		19L-1060
-Muhammad Ahmad		19L-1199
-Behzad N. Khokher	19L-2744
+Rana Abdul Muneem	
+Muhammad Shariq		
+Muhammad Ahmad		
+Behzad N. Khokher	
 
 Included files:
 	README.txt
